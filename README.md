@@ -1,4 +1,4 @@
-# FarCry3-SilentMenuPatcher
+# Far Cry 3: Silent Menu patcher
 
 Patcher that modifies `FC3.dll`**/**`FC3_d3d11.dll` to remove the awful background noise played during pause screens (a very loud bass-y hum).
 
