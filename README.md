@@ -5,7 +5,7 @@ Patcher that modifies `FC3.dll`**/**`FC3_d3d11.dll` to remove the awful backgrou
 [![Latest Release](https://img.shields.io/github/release/trigger-segfault/TriggersTools.FarCry3.SilentMenuPatcher.svg?style=flat&label=version)](https://github.com/trigger-segfault/TriggersTools.FarCry3.SilentMenuPatcher/releases/latest)
 [![Latest Release Date](https://img.shields.io/github/release-date-pre/trigger-segfault/TriggersTools.FarCry3.SilentMenuPatcher.svg?style=flat&label=released)](https://github.com/trigger-segfault/TriggersTools.FarCry3.SilentMenuPatcher/releases/latest)
 [![Total Downloads](https://img.shields.io/github/downloads/trigger-segfault/TriggersTools.FarCry3.SilentMenuPatcher/total.svg?style=flat)](https://github.com/trigger-segfault/TriggersTools.FarCry3.SilentMenuPatcher/releases)
-![[Nexus Mods](https://www.nexusmods.com/farcry3/mods/265)](https://img.shields.io/badge/nexus-mods-63889c.svg?style=flat)
+[![Nexus Mods](https://img.shields.io/badge/nexus-mods-63889c.svg?style=flat)](https://www.nexusmods.com/farcry3/mods/265)
 
 This solution was provided by **koorashi** in [this reddit post](https://old.reddit.com/r/farcry/comments/15q4en/goddamn_that_bassy_repetitive_noise_on_the_pause/c7ozuna/) from December 2012 <sup>([web archive](http://web.archive.org/web/20220411160830/https://old.reddit.com/r/farcry/comments/15q4en/goddamn_that_bassy_repetitive_noise_on_the_pause/))</sup>.
 
